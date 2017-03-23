@@ -1,5 +1,5 @@
 
-#INF5860 Oblig 1
+# INF5860 Oblig 1
 In this assignment you will practice building a image classification algorithm. You will first implement a softmax classifier and move on to
 building a simple modular *framework for neural networks*. The goals of this assignment are as follows:
 
@@ -12,7 +12,7 @@ building a simple modular *framework for neural networks*. The goals of this ass
 - Implement the **gradient decent** update rule.
 
 
-##The Parts to Complete
+## The Parts to Complete
 #### Part 1: Implement a Softmax classifier
 The Jupyter Notebook softmax.ipynb will walk you through implementing the Softmax classifier.
 
