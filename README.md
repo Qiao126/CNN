@@ -17,7 +17,7 @@ building a simple modular *framework for neural networks*. The goals of this ass
 The Jupyter Notebook softmax.ipynb will walk you through implementing the Softmax classifier.
 
 #### Part 2: Two-Layer Neural Network 
-The Jupyter notebook two_layer_net.ipynb will walk you through the implementation of a two-layer neural network classifier.
+The Jupyter notebook two_layer_net.ipynb will walk you through the implementation of a two-layer neural network classifier. (hint: If you struggle with this, you can try to do **Part 4: Backpropagation** first. As the modular approach takes you through the process step by step.
 
 #### Part 3: Image Features
 The IPython Notebook features.ipynb will walk you through this exercise, in which you will examine
